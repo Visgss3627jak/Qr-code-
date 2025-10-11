@@ -1,0 +1,21 @@
+{
+  "name": "multi-function-qr-generator",
+  "version": "1.0.0",
+  "description": "Advanced QR generator with multiple functions for educational purposes",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build process needed for static files'"
+  },
+  "keywords": [
+    "qr-generator",
+    "educational",
+    "web-development",
+    "javascript"
+  ],
+  "author": "Vishalzxxx",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
